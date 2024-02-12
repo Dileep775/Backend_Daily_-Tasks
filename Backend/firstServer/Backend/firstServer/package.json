@@ -1,0 +1,16 @@
+{
+  "name": "firstserver",
+  "version": "1.0.0",
+  "description": "Backend practice file firstServer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "start-server": "node app.js"
+  },
+  "keywords": [
+    "NODE.JS"
+  ],
+  "author": "Dileep K C",
+  "license": "ISC"
+}
